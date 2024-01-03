@@ -1,7 +1,7 @@
 # Is there a relationship between optic disc ovality index and positional changes in myopic eyes?
 This is the code Repository for paper titled - "Is there a relationship between optic disc ovality index and positional changes in myopic eyes?", published in SPIE BioS conference, 2022.
 
-Link to the paper can be found here - [Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11941/119410M/Is-there-a-relationship-between-optic-disc-ovality-index-and/10.1117/12.2610714.short#_=_), in addition to the pdf uploaded in this repository.
+Link to the paper can be found here - [Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11941/119410M/Is-there-a-relationship-between-optic-disc-ovality-index-and/10.1117/12.2610714.short#_=_).
 
 # Abstract
 
